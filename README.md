@@ -137,10 +137,3 @@ print(f"Prediction Probability: {pred_prob}")
 
 -----
 
-## Future Improvements
-
-  * **Hyperparameter Tuning:** Implement techniques like GridSearchCV or RandomizedSearchCV to find the optimal hyperparameters for the models.
-  * **Explore Other Models:** Evaluate other classification algorithms like Gradient Boosting, Support Vector Machines, or Neural Networks.
-  * **Alternative Sampling Techniques:** Experiment with downsampling or other oversampling methods besides SMOTE.
-  * **Address Overfitting:** Investigate and apply techniques to mitigate potential overfitting.
-  * **Stratified K-Fold Cross-Validation:** Use stratified k-fold cross-validation to ensure the class distribution is preserved in each fold, which can be more robust for imbalanced datasets.
