@@ -1,4 +1,3 @@
-Of course, here's a README file for your project.
 
 # Customer Churn Prediction using Machine Learning
 
